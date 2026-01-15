@@ -1,7 +1,7 @@
 {
   "name": "school-leaderboard",
   "version": "1.0.0",
-  "description": "",
+  "description": "# Instructions",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -16,16 +16,25 @@
   "license": "ISC",
   "dependencies": {
     "@shelf/jest-mongodb": "^1.2.4",
-    "express": "^4.17.1",
-    "mongoose": "^6.3.4"
+    "express": "^4.22.1",
+    "mongoose": "^6.13.8"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
+    "cypress": "^9.5.0",
     "jest": "^26.6.3",
     "nodemon": "^2.0.3",
     "superagent": "^6.1.0",
-    "supertest": "^6.1.3",
-    "cypress": "^9.5.0"
-  }
+    "supertest": "^6.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acciojob/school-leaderboard-ShivamP-97.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/acciojob/school-leaderboard-ShivamP-97/issues"
+  },
+  "homepage": "https://github.com/acciojob/school-leaderboard-ShivamP-97#readme"
 }
